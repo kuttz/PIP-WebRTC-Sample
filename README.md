@@ -29,6 +29,15 @@ You can use the [SignalingServer](https://github.com/kuttz/signaling_server) to 
 2. Open the `Config.swift` and set the `defaultSignalingServerUrl` variable to your signaling server ip/host. Don't use `localhost` or `127.0.0.1`.
 
 3. Build and run on device or on a simulator (simulator does not support video capture)
+
+## Demo video
+
+
+
+https://github.com/kuttz/PIP-WebRTC-Sample/assets/25796581/f8860e4c-1309-4671-bf35-3b7725770ab0
+
+
+
 ## Related
 
 Here is are some related projects
@@ -36,4 +45,6 @@ Here is are some related projects
 [SignalingServer](https://github.com/kuttz/signaling_server)
 
 [WebRTC-Demo-SwiftUI](https://github.com/kuttz/webrtc_demo_swiftui)
+
+
 
